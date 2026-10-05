@@ -1,317 +1,293 @@
 <!--
 ======================================================================
-  MOHAMED ABDELGAWAD | GITHUB PROFILE README
-  Dual Identity: Software Engineer & SOC Analyst (DevSecOps / AppSec)
-  GitHub Username: Mzdo25
-  Contact: mgoda3071@gmail.com
+  [SYSTEM_BOOT] :: MOHAMED ABDELGAWAD (Mzdo25)
+  PROFILE: SOFTWARE & SOC ENGINEER // DEVSECOPS // APPSEC
+  THEME: RETRO CYBER-TERMINAL // PHOSPHOR CRT v2.6
 ======================================================================
 -->
 
 <div align="center">
 
-<!-- CAPSULE RENDER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,35:0369a1,70:0284c7,100:6366f1&height=230&section=header&text=Mohamed%20Abdelgawad&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20SOC%20Analyst%20%7C%20DevSecOps&descAlignY=62&descSize=18&fontColor=ffffff&descColor=38bdf8" width="100%" alt="Header Banner" />
+```text
+ ╔════════════════════════════════════════════════════════════════════════════════════════════╗
+ ║   __  __ _____ ___   ___ ___  ____                                                         ║
+ ║  |  \/  |__  /|   \ / _ \_  )| ___|     MOHAMED ABDELGAWAD                                 ║
+ ║  | |\/| | / / | |) | | | / / |___ \     [ SOFTWARE ENGINEER & SOC ANALYST ]                ║
+ ║  | |  | |/ /_ | |) | |_| /___ ___) |    DEVSECOPS // SIEM SPECIALIST // APPSEC             ║
+ ║  |_|  |_/____||___/ \___/____|____/     STATUS: OPERATIONAL [ONLINE]                       ║
+ ║                                                                                            ║
+ ╚════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
-<!-- TYPING SVG ANIMATION -->
+<!-- RETRO TERMINAL TYPING ANIMATION (VT323 MONOSPACE) -->
 <a href="https://github.com/Mzdo25">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=860&lines=Software+Engineer+%26+SOC+Analyst+%7C+Building+Secure+Apps+%26+Threat+Detection;DevSecOps+Engineer+%7C+SIEM+Specialist+%7C+Full-Stack+Development;Software+Engineer+%7C+Cybersecurity+%26+AI+Integrations;Security-Minded+Developer+Bridging+Creation+%26+Mitigation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2800&pause=1000&color=00FF66&center=true&vCenter=true&width=860&lines=%3E+INITIALIZING+DEVSECOPS+PROTOCOL...;%3E+SOFTWARE+ENGINEER+%26+SOC+ANALYST;%3E+BRIDGING+CODE+CREATION+%26+THREAT+MITIGATION;%3E+AI+INTEGRATIONS+%26+SIEM+TELEMETRY+AUTOMATION" alt="Terminal Typing SVG" />
 </a>
 
 <br/>
 
-<!-- TOP STATUS BADGES & VISITOR COUNTER -->
+<!-- RETRO STATUS TELEMETRY BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mzdo25&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Security-DevSecOps%20%7C%20SOC-00D26A?style=for-the-badge&logo=shield&logoColor=white" alt="DevSecOps & SOC" />
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Collaborate-0284C7?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Status" />
-  <a href="mailto:mgoda3071@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mgoda3071%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/HOST-SOC--MAINFRAME-000000?style=flat-square&logo=linux&logoColor=00FF66" alt="Host" />
+  <img src="https://img.shields.io/badge/CLEARANCE-DEVSECOPS-000000?style=flat-square&logo=gnubash&logoColor=00FF66" alt="Clearance" />
+  <img src="https://img.shields.io/badge/TELEMETRY-SPLUNK%20%2F%20ELASTIC-000000?style=flat-square&logo=splunk&logoColor=00FF66" alt="SIEM" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_ROLES-00FF66?style=flat-square&logoColor=black&labelColor=000000" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Mzdo25&color=00ff66&style=flat-square&label=TERMINAL_ACCESS_LOG" alt="Visitors" />
 </p>
 
 </div>
 
 ---
 
-### 🛡️ About Me & Professional Identity
+### 📟 `root@mzdo25:~# cat /etc/identity.conf`
 
-> **"A security-minded developer bridging the gap between application creation and threat mitigation. Experienced in building AI-integrated platforms while actively monitoring, hardening, and securing infrastructure."**
+```ini
+[OPERATOR_PROFILE]
+OPERATOR     = Mohamed Abdelgawad (Mzdo25)
+ROLE         = Software Engineer & SOC Analyst | DevSecOps Specialist
+PHILOSOPHY   = "Bridge the gap between application creation and threat mitigation."
+CORE_MISSION = Engineer resilient full-stack systems with defense-in-depth, 
+               harden attack surfaces at build-time, and automate SIEM detection.
 
-Combining software engineering with SOC expertise positions me at the intersection of **Software Engineering**, **DevSecOps**, and **Application Security (AppSec)**. I don't just write functional code—I architect systems designed to resist exploitation, monitor telemetry in real-time, and automate incident response pipelines.
-
-- 🔭 **Current Endeavors**: Co-architecting **Lost In Egypt** (Graduation Project funded by the **ITIDA ITAC Program**) and engineering automated SOC log ingestion workflows.
-- 🛡️ **Defensive Operations**: Log analysis and SIEM detection engineering using **Splunk** & **Elasticsearch/Kibana**, backed by **Cisco** enterprise networking fundamentals.
-- 💻 **Software Engineering**: Designing resilient full-stack applications with **React**, **Next.js**, **Node.js**, and **Python**, containerized and hosted across **GCP** & **Vercel**.
-- 🧠 **AI & Intelligence**: Implementing generative AI workflows via **Google AI Studio (Gemini APIs)** and programmatic OSINT/web scrapers via **Serper API** & **SerpApi**.
-- 🔍 **Offensive Auditing**: Web application penetration testing, vulnerability assessment, and API security auditing with **Burp Suite** and **OWASP Top 10** frameworks.
-- 🐧 **Infrastructure & Systems**: Hands-on systems administration and server hardening on **Red Hat Enterprise Linux (RHEL)**.
-
----
-
-### ⚖️ The "Dual-Threat" Grid
-
-<div align="center">
-
-| 💻 Software Engineering & Cloud | 🛡️ Security Operations & Defense |
-| :--- | :--- |
-| **Architecture & Full-Stack Development**<br/>Building responsive, high-performance web platforms with modern frontend frameworks and modular backend services. | **SIEM & Security Telemetry**<br/>Designing search queries, alerts, and dashboards in **Splunk** and **Elastic SIEM** for proactive threat visibility. |
-| **Cloud Deployments & Serverless**<br/>Deploying production microservices across **Google Cloud Platform (GCP)** and **Vercel** with automated CI/CD pipelines. | **Network Defense & Analysis**<br/>Packet inspection and protocol triage using **Wireshark**; routing, switching, and topology design with **Cisco Networking**. |
-| **AI Integration & Intelligence Feeds**<br/>Integrating multimodal models using **Google AI Studio (Gemini APIs)**, paired with **Serper / SerpApi** for real-time search extraction. | **Vulnerability Assessment & Auditing**<br/>Auditing APIs and web apps for OWASP Top 10 vulnerabilities, conducting proxy interception and tampering via **Burp Suite**. |
-| **Product Design & Collaboration**<br/>Translating product requirements into interactive design systems using **Figma** and organizing technical roadmaps in **Notion**. | **System Hardening & Governance**<br/>Linux systems administration (**RHEL**), least-privilege access control, audit logging, and automated threat hunting playbooks. |
-
-</div>
-
----
-
-### 🧰 Categorized Tech Stack
-
-#### 🚀 Skill Matrix At A Glance
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,vercel,github,figma,notion,python,js,ts,react,nextjs,nodejs,linux,redhat,splunk,cisco,elastic,wireshark,postman" alt="My Skills" />
-</p>
-
-#### 🌐 Software Engineering & Cloud Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Red%20Hat%20Linux-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHEL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</p>
-
-#### 🧠 AI & API Integrations
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20AI%20Studio-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini APIs" />
-  <img src="https://img.shields.io/badge/Serper%20API-FF6F00?style=for-the-badge&logo=google&logoColor=white" alt="Serper API" />
-  <img src="https://img.shields.io/badge/SerpApi-2563EB?style=for-the-badge&logo=google&logoColor=white" alt="SerpApi" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-#### 🛡️ Security Operations (SOC) & Defensive Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/Splunk%20SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
-  <img src="https://img.shields.io/badge/Elastic%20SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
-  <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Log%20Analysis-0D1117?style=for-the-badge&logo=linux&logoColor=38BDF8" alt="Log Analysis" />
-</p>
-
-#### ⚔️ Offensive Security & Auditing
-<p align="left">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Nmap-002B36?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/DevSecOps%20Auditing-00D26A?style=for-the-badge&logo=git&logoColor=white" alt="DevSecOps Auditing" />
-</p>
-
----
-
-### ⚡ Workflow Automation Showcase: Engineering-Driven SOC
-
-One of my core strengths is leveraging software development to eliminate manual, repetitive security operations. Below is the blueprint of my automated threat intelligence and log enrichment pipeline:
-
-```mermaid
-flowchart LR
-    subgraph Ingestion ["1. Data Ingestion & OSINT"]
-      A["External Threat Intelligence<br/>(Serper API / SerpApi)"]
-      B["Application & Network Events<br/>(GCP / Vercel / Cisco / Linux)"]
-    end
-
-    subgraph Automation ["2. Python Automation Engine"]
-      C["Event Parser & Normalizer"]
-      D["Threat Enrichment & IOC Scoring"]
-    end
-
-    subgraph SIEM ["3. Centralized SIEM & Triage"]
-      E["Splunk SIEM<br/>(Log Correlation & Dashboards)"]
-      F["Elastic SIEM<br/>(Kibana Alerting & Rules)"]
-    end
-
-    subgraph Action ["4. Incident Response"]
-      G["High-Severity Alert Dispatched"]
-      H["Automated IP / Domain Triage"]
-    end
-
-    A -->|Live Query / Webhook| C
-    B -->|Syslog / Telemetry Stream| C
-    C --> D
-    D -->|HEC / Ingest Pipeline| E
-    D -->|Logstash / REST API| F
-    E --> G
-    F --> H
+[TELEMETRY_FEEDS]
+CURRENT_WORK = Co-Architecting "Lost In Egypt" (Funded by ITIDA ITAC Program)
+SECURITY_OPS = Log Analysis, Threat Hunting, SIEM Rule Creation (Splunk, Elastic)
+SOFTWARE_ENG = Full-Stack Web Platforms (React, Next.js, Node.js, Python, GCP)
+API_INTEG    = Google AI Studio (Gemini 1.5), Serper API, SerpApi Threat Harvesters
+AUDITING_LAB = Web App Penetration Testing, Burp Suite Interception, OWASP Top 10
+OS_KERNEL    = Red Hat Enterprise Linux (RHEL), Cisco Enterprise Networking
 ```
 
-#### 🔧 How This Workflow Works:
-1. **Automated Indicator Extraction**: Python scripts query **Serper / SerpApi** endpoints to retrieve live context on suspect domains, emerging CVEs, and reputation data.
-2. **Log Normalization**: Incoming web server logs (from Vercel / GCP) and system auth logs are enriched with threat intelligence metadata.
-3. **SIEM Telemetry Ingestion**: Structured JSON payloads are dispatched directly into **Splunk HTTP Event Collector (HEC)** and **Elasticsearch** indexes.
-4. **Actionable Alerting**: Automated correlation rules filter out noise and flag actionable indicators of compromise (IoCs), dramatically speeding up mean time to detect (MTTD).
-
 ---
 
-### 🌟 Notable Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏛️ Lost In Egypt (2025–2026)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Graduation%20Project-Funded-success?style=flat-square" alt="Graduation Project" />
-        <img src="https://img.shields.io/badge/ITIDA%20ITAC-Grant%20Supported-orange?style=flat-square" alt="ITIDA ITAC" />
-        <img src="https://img.shields.io/badge/Google%20Gemini%20API-purple?style=flat-square" alt="Gemini API" />
-        <img src="https://img.shields.io/badge/GCP-Cloud%20Hosting-blue?style=flat-square" alt="GCP" />
-      </p>
-      <p>
-        A state-of-the-art digital travel companion application co-developed as a graduation project, proudly <b>supported and funded by the ITIDA ITAC Graduation Project Support Program</b>.
-      </p>
-      <ul>
-        <li><b>Architecture</b>: Engineered a secure, full-stack architecture with hardened API gateways, user authentication, and high-availability cloud deployments on <b>Google Cloud Platform (GCP)</b>.</li>
-        <li><b>AI Integration</b>: Integrated <b>Google AI Studio (Gemini APIs)</b> for dynamic, context-aware itinerary planning and cultural navigation.</li>
-        <li><b>Security by Design</b>: Implemented OWASP best practices, rate-limiting, and input sanitization to safeguard user records and transactional endpoints.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/fagerhu03/lost_in_egypt"><b>Explore Repository ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛰️ NASA Space Apps Challenge</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Hackathon-NASA%20Space%20Apps-blue?style=flat-square" alt="NASA Space Apps" />
-        <img src="https://img.shields.io/badge/Role-Software%20Engineer-00D26A?style=flat-square" alt="Role" />
-        <img src="https://img.shields.io/badge/Prototyping-Rapid%20Sprint-yellow?style=flat-square" alt="Prototyping" />
-      </p>
-      <p>
-        Selected participant in the world's largest annual global hackathon, competing under strict time limits to solve complex, space-inspired software challenges.
-      </p>
-      <ul>
-        <li><b>Rapid Prototyping</b>: Built and iterated on <b>PetalView</b>, turning raw mission datasets into an interactive, functional software prototype within 48 hours.</li>
-        <li><b>Agile Teamwork</b>: Collaborated across cross-functional roles, driving architecture decisions, version control hygiene, and fast software iterations.</li>
-        <li><b>Resilient Engineering</b>: Prioritized software stability and clean component breakdown under tight constraints.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Mzdo25/petalview_nasa_spaceapp"><b>View Project Repository ➔</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ SOC Threat Intel & Log Ingestion Pipeline</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Security-SOC%20Automation-00D26A?style=flat-square" alt="SOC Automation" />
-        <img src="https://img.shields.io/badge/Splunk-SIEM%20HEC-black?style=flat-square" alt="Splunk" />
-        <img src="https://img.shields.io/badge/Elastic-Kibana-005571?style=flat-square" alt="Elastic" />
-        <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square" alt="Python" />
-      </p>
-      <p>
-        An automated security orchestration tool engineered to bridge open-source threat intelligence with enterprise SIEM aggregators.
-      </p>
-      <ul>
-        <li><b>Automated Harvester</b>: Uses <b>Serper API</b> and <b>SerpApi</b> to fetch threat indicators, malicious IPs, and vulnerability advisories.</li>
-        <li><b>SIEM Integration</b>: Feeds normalized events to <b>Splunk</b> and <b>Elasticsearch</b> for correlation against live production logs.</li>
-        <li><b>Detection Engineering</b>: Pre-built detection queries that identify brute-force scans and anomalous traffic spikes.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Mzdo25"><b>View SOC Scripts ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Modern Web Showcase Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Deployment-Vercel-black?style=flat-square" alt="Vercel" />
-        <img src="https://img.shields.io/badge/Frontend-Responsive%20UI-0284C7?style=flat-square" alt="Frontend" />
-        <img src="https://img.shields.io/badge/Performance-Optimized-success?style=flat-square" alt="Performance" />
-      </p>
-      <p>
-        A high-performance personal web showcase featuring clean UI components, optimized assets, and responsive layout architecture.
-      </p>
-      <ul>
-        <li><b>Production Deployment</b>: Deployed on <b>Vercel</b> with zero-downtime continuous integration.</li>
-        <li><b>Design Fidelity</b>: Built with semantic HTML, CSS design tokens, and modular components planned in Figma.</li>
-        <li><b>SEO & Accessibility</b>: High Lighthouse scores across performance, accessibility, and best practices.</li>
-      </ul>
-      <p align="center">
-        <a href="https://yehia-yasser.vercel.app"><b>Visit Live Demo ➔</b></a> • <a href="https://github.com/Mzdo25/yehia_yasser"><b>Source Code ➔</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Activity & Metrics
+### ⚖️ Subsystem Architecture: The "Dual-Threat" Grid
 
 <div align="center">
 
-<!-- GITHUB STATS & TOP LANGS SIDE-BY-SIDE -->
+| `[SYS.MOD_01] SOFTWARE ENGINEERING & CLOUD` | `[SYS.MOD_02] SOC OPERATIONS & DEFENSIVE SECURITY` |
+| :--- | :--- |
+| **⚡ High-Performance Architecture**<br/>• Full-stack microservices & reactive UIs with React/Next.js & Node.js<br/>• Production cloud deployments across Google Cloud Platform (GCP) & Vercel<br/>• Secure RESTful API endpoints, middleware rate-limiting, and sanitized pipelines | **🛡️ SIEM Detection & Log Telemetry**<br/>• Centralized event ingestion & correlation in **Splunk SIEM** and **Elastic SIEM**<br/>• Dashboard design, alert tuning, and false-positive suppression<br/>• Syslog aggregation, Windows Event auditing, and Linux auditd logs |
+| **🧠 Generative AI & Real-Time APIs**<br/>• Multimodal LLM integration via **Google AI Studio (Gemini APIs)**<br/>• Programmatic OSINT & automated query extraction using **Serper API** & **SerpApi**<br/>• Production schema validation, caching layers, and token optimization | **🔍 Network Forensics & Protocol Auditing**<br/>• Deep packet inspection and traffic flow analysis with **Wireshark**<br/>• Routing, switching, VLAN segregation, and ACL design via **Cisco Networking**<br/>• Network telemetry analysis for anomalous egress and beaconing behavior |
+| **📐 Design Systems & Delivery**<br/>• Interactive UI wireframing and component tokens with **Figma**<br/>• CI/CD pipeline automation via **GitHub Actions**<br/>• Technical documentation, architecture blueprints, and sprint tracking in **Notion** | **⚔️ Offensive Auditing & System Hardening**<br/>• Application vulnerability assessment and proxy inspection using **Burp Suite**<br/>• Mitigation of **OWASP Top 10** risks (Injection, Broken Auth, SSRF, XSS)<br/>• Operating system hardening and least-privilege policies on **Red Hat Linux (RHEL)** |
+
+</div>
+
+---
+
+### 🛠️ Hardware & Tooling Inventory
+
+#### 🖥️ `root@mzdo25:~# ./list_modules.sh --visual`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,redhat,python,js,ts,react,nextjs,nodejs,gcp,vercel,github,splunk,elastic,wireshark,cisco,postman,figma,notion&theme=dark" alt="Tech Stack Icons" />
+</p>
+
+#### 💾 Module Breakdown by Protocol:
+
+```bash
+[+] PROTOCOL 01 // SOFTWARE & CLOUD INFRASTRUCTURE
+```
+<p align="left">
+  <img src="https://img.shields.io/badge/GCP_CLOUD-000000?style=flat-square&logo=google-cloud&logoColor=00FF66" alt="GCP" />
+  <img src="https://img.shields.io/badge/VERCEL-000000?style=flat-square&logo=vercel&logoColor=00FF66" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-000000?style=flat-square&logo=github-actions&logoColor=00FF66" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/RHEL_LINUX-000000?style=flat-square&logo=redhat&logoColor=00FF66" alt="RHEL" />
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=00FF66" alt="Python" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=00FF66" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=00FF66" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/REACT.JS-000000?style=flat-square&logo=react&logoColor=00FF66" alt="React" />
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square&logo=nextdotjs&logoColor=00FF66" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logo=nodedotjs&logoColor=00FF66" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FIGMA-000000?style=flat-square&logo=figma&logoColor=00FF66" alt="Figma" />
+  <img src="https://img.shields.io/badge/NOTION-000000?style=flat-square&logo=notion&logoColor=00FF66" alt="Notion" />
+</p>
+
+```bash
+[+] PROTOCOL 02 // AI ENGINES & THREAT INTEL HARVESTERS
+```
+<p align="left">
+  <img src="https://img.shields.io/badge/GOOGLE_AI_STUDIO-000000?style=flat-square&logo=googlegemini&logoColor=00FF66" alt="Gemini" />
+  <img src="https://img.shields.io/badge/SERPER_API-000000?style=flat-square&logo=google&logoColor=00FF66" alt="Serper API" />
+  <img src="https://img.shields.io/badge/SERPAPI-000000?style=flat-square&logo=google&logoColor=00FF66" alt="SerpApi" />
+  <img src="https://img.shields.io/badge/REST_APIS-000000?style=flat-square&logo=fastapi&logoColor=00FF66" alt="REST" />
+  <img src="https://img.shields.io/badge/POSTMAN-000000?style=flat-square&logo=postman&logoColor=00FF66" alt="Postman" />
+</p>
+
+```bash
+[+] PROTOCOL 03 // SOC DEFENSIVE TELEMETRY & SIEM
+```
+<p align="left">
+  <img src="https://img.shields.io/badge/SPLUNK_SIEM-000000?style=flat-square&logo=splunk&logoColor=00FF66" alt="Splunk" />
+  <img src="https://img.shields.io/badge/ELASTIC_SIEM-000000?style=flat-square&logo=elastic&logoColor=00FF66" alt="Elastic SIEM" />
+  <img src="https://img.shields.io/badge/ELASTICSEARCH-000000?style=flat-square&logo=elasticsearch&logoColor=00FF66" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/KIBANA-000000?style=flat-square&logo=kibana&logoColor=00FF66" alt="Kibana" />
+  <img src="https://img.shields.io/badge/CISCO_NETWORKING-000000?style=flat-square&logo=cisco&logoColor=00FF66" alt="Cisco" />
+  <img src="https://img.shields.io/badge/WIRESHARK-000000?style=flat-square&logo=wireshark&logoColor=00FF66" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/LOG_ANALYSIS-000000?style=flat-square&logo=linux&logoColor=00FF66" alt="Logs" />
+</p>
+
+```bash
+[+] PROTOCOL 04 // AUDITING & OFFENSIVE VERIFICATION
+```
+<p align="left">
+  <img src="https://img.shields.io/badge/BURP_SUITE-000000?style=flat-square&logo=portswigger&logoColor=00FF66" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP_TOP_10-000000?style=flat-square&logo=owasp&logoColor=00FF66" alt="OWASP" />
+  <img src="https://img.shields.io/badge/NMAP_SCANNER-000000?style=flat-square&logo=linux&logoColor=00FF66" alt="Nmap" />
+  <img src="https://img.shields.io/badge/DEVSECOPS_LINTING-000000?style=flat-square&logo=git&logoColor=00FF66" alt="DevSecOps" />
+</p>
+
+---
+
+### ⚡ SOC Automation Engine: Automated Threat Ingestion Pipeline
+
+```text
+  ┌───────────────────────┐         ┌─────────────────────────┐
+  │  OSINT & Threat Feeds │         │ Live Telemetry Streams  │
+  │  (Serper / SerpApi)   │         │ (GCP, Vercel, Syslogs)  │
+  └───────────┬───────────┘         └────────────┬────────────┘
+              │                                  │
+              ▼                                  ▼
+      ╔══════════════════════════════════════════════════╗
+      ║         PYTHON SOC AUTOMATION ENGINE             ║
+      ║   • Normalizes Raw Webhooks & System Events      ║
+      ║   • Queries External Feeds for IOC Reputation    ║
+      ║   • Enriches Event Metadata with Threat Context  ║
+      ╚═════════════════════════╤════════════════════════╝
+                                │
+        ┌───────────────────────┴───────────────────────┐
+        ▼                                               ▼
+  ┌───────────────────────────┐           ┌───────────────────────────┐
+  │     SPLUNK ENTERPRISE     │           │       ELASTIC SIEM        │
+  │ • Real-time HEC Collector │           │ • Elasticsearch Cluster   │
+  │ • Correlation Dashboards  │           │ • Kibana Anomaly Alerts   │
+  └─────────────┬─────────────┘           └─────────────┬─────────────┘
+                │                                       │
+                └───────────────────┬───────────────────┘
+                                    ▼
+                      ┌───────────────────────────┐
+                      │    ACTIONABLE ALERTING    │
+                      │  High-Fidelity Triage     │
+                      └───────────────────────────┘
+```
+
+#### ⚙️ Engineering Principles:
+1. **Eliminate Toil**: Replace manual IP/domain reputation checks with automated Python scripts that query **Serper / SerpApi** on event trigger.
+2. **Context Enrichment**: Ingest raw web logs from Vercel / GCP and tag them with geographic, ASN, and reputation metadata before SIEM indexing.
+3. **High-Fidelity Triage**: Forward structured events directly into **Splunk HTTP Event Collector (HEC)** and **Elasticsearch**, dropping false positives before they hit human analysts.
+
+---
+
+### 🛰️ Mission Logs & Featured Deployments
+
+```bash
+# MISSION LOG 01: LOST IN EGYPT (2025–2026)
+# CLASSIFICATION: GRADUATION PROJECT // ITIDA ITAC FUNDED
+```
+> **Status**: In Active Development & Deployment  
+> **Sponsorship**: Supported and Funded by the **ITIDA ITAC Graduation Project Support Program**  
+> **Architecture**: End-to-end travel platform co-developed with resilient microservices, Google Cloud Platform (GCP) hosting, and secure API gateways.  
+> **AI Subsystem**: Integrated **Google AI Studio (Gemini APIs)** to generate real-time cultural itineraries and localized travel guidance.  
+> **Security Posture**: Hardened against OWASP vulnerabilities, with strict token-based authentication and structured access boundaries.  
+> 🔗 **Repository**: [github.com/fagerhu03/lost_in_egypt](https://github.com/fagerhu03/lost_in_egypt)
+
+---
+
+```bash
+# MISSION LOG 02: NASA SPACE APPS CHALLENGE (PETALVIEW)
+# CLASSIFICATION: INTERNATIONAL HACKATHON // RAPID SPRINT
+```
+> **Status**: Completed  
+> **Role**: Software Engineer & Agile Prototyper  
+> **Objective**: Built **PetalView**, transforming complex space and planetary datasets into an interactive, functional software prototype in under 48 hours.  
+> **Core Learnings**: High-velocity problem-solving under extreme time constraints, rapid component iteration, and clean version-control collaboration.  
+> 🔗 **Repository**: [github.com/Mzdo25/petalview_nasa_spaceapp](https://github.com/Mzdo25/petalview_nasa_spaceapp)
+
+---
+
+```bash
+# MISSION LOG 03: SOC AUTOMATED THREAT HARVESTER & SIEM PIPELINE
+# CLASSIFICATION: SECURITY ENGINEERING & AUTOMATION
+```
+> **Status**: Production Scripts  
+> **Stack**: Python 3, Splunk HEC, Elastic SIEM, Serper API, SerpApi  
+> **Objective**: Lightweight automation daemon that polls emerging vulnerability feeds and search APIs, normalizes payloads into CEF/JSON, and streams data into Splunk & Elastic SIEM for automated threat scoring.  
+> 🔗 **Repository**: [github.com/Mzdo25](https://github.com/Mzdo25)
+
+---
+
+```bash
+# MISSION LOG 04: HIGH-FIDELITY WEB PLATFORM (YEHIA YASSER)
+# CLASSIFICATION: FULL-STACK VERCEL DEPLOYMENT
+```
+> **Status**: Live on Production  
+> **Stack**: Modern HTML5, Responsive CSS, Vercel CI/CD  
+> **Objective**: Responsive web showcase deployed with high performance and accessibility ratings.  
+> 🔗 **Live Demo**: [yehia-yasser.vercel.app](https://yehia-yasser.vercel.app) • **Source**: [github.com/Mzdo25/yehia_yasser](https://github.com/Mzdo25/yehia_yasser)
+
+---
+
+### 📊 System Diagnostics & Contribution Telemetry
+
+<div align="center">
+
+<!-- RETRO PHOSPHOR GREEN TERMINAL STATS -->
 <table border="0">
   <tr>
     <td align="center">
       <a href="https://github.com/Mzdo25">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mzdo25&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=00D26A&text_color=94A3B8" alt="GitHub Profile Stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Mzdo25&show_icons=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=7EE787&border_color=238636" alt="GitHub Profile Stats" width="410" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Mzdo25">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mzdo25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="350" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mzdo25&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF66&text_color=7EE787&border_color=238636" alt="Top Languages" width="360" />
       </a>
     </td>
   </tr>
 </table>
 
-<!-- GITHUB STREAK CARD -->
+<!-- RETRO STREAK STATS -->
 <p align="center">
   <a href="https://github.com/Mzdo25">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mzdo25&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=00D26A&currStreakNum=38BDF8&sideNums=94A3B8&dates=64748B" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mzdo25&theme=terminal&hide_border=false&border=238636" alt="GitHub Streak Stats" />
   </a>
 </p>
 
-<!-- SNAKE CONTRIBUTION GRAPH -->
-<h4>🐍 Contribution Grid Snake Animation</h4>
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<h4>🐍 CONTRIBUTION GRID SNAKE (MATRIX TELEMETRY)</h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mzdo25/Mzdo25/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mzdo25/Mzdo25/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Mzdo25/Mzdo25/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="Contribution Grid Snake" src="https://raw.githubusercontent.com/Mzdo25/Mzdo25/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+### 📡 Encrypted Handshake // Connect With Me
 
-I am constantly eager to connect with fellow engineers, security researchers, and innovative teams. Whether you want to discuss **DevSecOps workflows**, **SIEM detection engineering**, **AI platform integrations**, or explore full-time / contract opportunities:
+```bash
+# DISPATCH INCOMING COMMUNICATIONS:
+```
 
 <p align="center">
   <a href="mailto:mgoda3071@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mgoda3071%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/EMAIL-mgoda3071%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=00FF66&labelColor=000000" alt="Email" />
   </a>
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-NETWORK-000000?style=flat-square&logo=linkedin&logoColor=00FF66&labelColor=000000" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Mzdo25">
-    <img src="https://img.shields.io/badge/GitHub-Mzdo25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-Mzdo25-000000?style=flat-square&logo=github&logoColor=00FF66&labelColor=000000" alt="GitHub" />
   </a>
   <a href="https://tryhackme.com">
-    <img src="https://img.shields.io/badge/TryHackMe-Security%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+    <img src="https://img.shields.io/badge/TRYHACKME-PROFILE-000000?style=flat-square&logo=tryhackme&logoColor=00FF66&labelColor=000000" alt="TryHackMe" />
   </a>
 </p>
 
-<div align="center">
-
-<!-- CAPSULE RENDER FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,30:0284c7,65:0369a1,100:0a0f1d&height=150&section=footer&text=Securing%20code%20at%20build%20time%2C%20defending%20systems%20at%20run%20time.&fontSize=18&fontAlignY=65&fontColor=38bdf8" width="100%" alt="Footer Banner" />
-
-</div>
+```text
+ ╔════════════════════════════════════════════════════════════════════════════════════════════╗
+ ║ [EOF] PROCESS RUNNING: "Securing code at build time, defending systems at run time."       ║
+ ║ KERNEL: LINUX // TELEMETRY: ACTIVE // DAEMON: LISTENING ON PORT 443                        ║
+ ╚════════════════════════════════════════════════════════════════════════════════════════════╝
+```
